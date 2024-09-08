@@ -1,4 +1,4 @@
-                                                                 Vrindha Store Data Analysis
+                                                        Vrindha Store Data Analysis
 Project Description :
 This project involves the analysis of sales data from Vrindha Store using Excel. The main objective is to generate an annual report that provides valuable insights into various aspects of the store's sales performance. The analysis covers areas such as order trends, state-wise sales distribution, gender-based sales, age and gender dynamics in orders, order status, and sales channels.
 
